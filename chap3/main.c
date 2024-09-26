@@ -1,4 +1,4 @@
-#lnclude <stdio.h>
+#include <stdio.h>
 #include "copy.h"
 
 char line[MAXLINE];
@@ -9,7 +9,7 @@ main(){
 	int max;
 	max = 0;
 
-	while(gets(line !=NULL){
+	while(gets(line) !=NULL){
 			len = strlen(line);
 
 			if(len > max){
