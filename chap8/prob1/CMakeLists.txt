@@ -1,0 +1,4 @@
+args gello world
+argv[0]: args
+argv[1]: hello
+argv[2]: world
